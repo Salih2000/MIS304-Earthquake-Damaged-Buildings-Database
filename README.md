@@ -57,6 +57,7 @@ FROM People p
 JOIN Buildings b ON p.Building_ID = b.Building_ID
 WHERE b.Building_Name = 'Building J';
 Feel free to explore and modify the database to suit your needs for the MIS304 course project.
+![image](https://github.com/Salih2000/MIS304-Earthquake-Damaged-Buildings-Database/assets/58088794/fc80d9ef-fbb3-41fe-be09-29849c9353cc)
 
 Contributing
 Contributions to the database schema and queries are welcome. If you have any suggestions or improvements, please feel free to create a pull request or open an issue.
